@@ -2,7 +2,7 @@
 title: Keg Bia Hà Nội 2L
 subtitle: Bia
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2014-07-17
 img: golden.png
 thumbnail: golden-thumbnail.png
