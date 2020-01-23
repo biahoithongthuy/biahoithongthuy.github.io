@@ -1,5 +1,5 @@
 ---
-title: Bia hơi Hà Nội
+title: Bia hơi Hà Nội 30L
 subtitle: Bia
 layout: default
 modal-id: 2
