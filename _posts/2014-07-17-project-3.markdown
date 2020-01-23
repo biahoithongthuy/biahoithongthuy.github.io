@@ -7,8 +7,8 @@ date: 2014-07-17
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+con: >3.5%
+dungtich: 2L
+thung: 0
 description: Thật tiếc nếu bạn chưa thử bia hơi Hà Nội Keg 2 lít. Tin rằng dù là một khách hàng sành bia hay nhạy cảm với đồ uống có cồn cũng sẽ nhanh chóng bị thức uống này “thuyết phục”. Bởi lẽ, hương vị đậm đà, cảm giác cay nồng nhưng không sốc lên mũi sẽ khiến cánh mày râu thêm hừng hực khí thế. Quan trọng hơn cả, giá bia hơi Hà Nội Keg 2 lít chỉ 90.000đ. So với các sản phẩm hiện tại, mức giá này rất xứng đáng với giá trị mà bia hơi Hà Nội Keg 2 lít mang lại. Hơn thế nữa, sản phẩm được bảo quản trong vỏ inox rất sang trọng, phù hợp với sở thích của nhiều đấng mày râu. Kích thước bia hơi Hà Nội Keg 2 lít nhỏ gọn, dễ sử dụng hơn so với bom 50 lít. Đây là dòng thức uống được nhiều tiệc họp mặt, đám cưới, đám giỗ,…lựa chọn. Bạn cũng có thể mang theo khi đi du lịch mà không lo bia bị vỡ, nứt hay rò rỉ ra ngoài.  
 ---

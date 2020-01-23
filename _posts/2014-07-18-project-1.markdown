@@ -7,8 +7,10 @@ date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lần đầu tiên được giới thiệu với người yêu bia Việt Nam vào năm 1992, cho đến nay, sản phẩm bia lon Hà Nội 330 ml với nồng độ cồn 4,6% vẫn luôn là sản phẩm được nhiều người tiêu dùng tin chọn. Chất lượng cũng như hình thức tiện lợi của bia lon Hà Nội là lý do khiến sản phẩm này luôn được nhắm tới làm quà tặng vào những dịp lễ Tết hay những dịp kỷ niệm quan trọng. Bia lon Hà Nội là chất xúc tác quan trọng khiến cho câu chuyện những dịp tụ tập thêm vui vẻ và hào hứng. Sản phẩm bia lon Hà Nội 330ml hiện đang được xuất khẩu đi nhiều nước trên thế giới, và nhận được nhiều đánh giá cao của các khách hàng quốc tế.
+con: 4.6%
+dungtich: 330ml
+thung: 24 lon
+description: Lần đầu tiên được giới thiệu với người yêu bia Việt Nam vào năm 1992, cho đến nay, sản phẩm bia lon Hà Nội 330 ml với nồng độ cồn 4,6% vẫn luôn là sản phẩm được nhiều người tiêu dùng tin chọn. Chất lượng cũng như hình thức tiện lợi của bia lon Hà Nội là lý do khiến sản phẩm này luôn được nhắm tới làm quà tặng vào những dịp lễ Tết hay những dịp kỷ niệm quan trọng. Bia lon Hà Nội là chất xúc tác quan trọng khiến cho câu chuyện những dịp tụ tập thêm vui vẻ và hào hứng.  
+Sản phẩm bia lon Hà Nội 330ml hiện đang được xuất khẩu đi nhiều nước trên thế giới, và nhận được nhiều đánh giá cao của các khách hàng quốc tế.
+
 ---
