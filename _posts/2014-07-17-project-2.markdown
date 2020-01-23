@@ -7,9 +7,9 @@ date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-con: >3.5%
-dungtich: 30L
-thung: 0
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
 description: Kể từ khi ra đời vào năm 1960, bia hơi Hà Nội vẫn luôn là một thương hiệu bia uy tín và được người yêu bia đón nhận nồng nhiệt. Không chỉ là lựa chọn hàng đầu cho các cuộc họp mặt thân mật của nhiều đối tượng khách hàng nội địa, bia hơi Hà Nội còn chiếm được sự ưa thích của nhiều bạn bè quốc tế khi có dịp đến thăm thủ đô. Bởi lẽ tên tuổi của sản phẩm này cũng như hình ảnh ngồi thưởng thức bia hơi Hà Nội tại các quán xá vỉa hè đã từ lâu trở thành một nét văn hóa bình dân đặc trưng mà chỉ thủ đô Hà Nội mới có. Với hương vị thơm mát, bia hơi Hà Nội luôn giữ vững vị trí tiên phong trong phân khúc thị trường bia hơi tại Việt Nam. Bên cạnh đó, định hướng quản trị thương hiệu đúng đắn cũng như phương châm phục vụ nhiệt tình và thân thiệt đã giúp bia hơi Hà Nội luôn dành được một vị trí ưu ái trong lòng những người yêu bia.
 
 ---
